@@ -43,5 +43,5 @@ six==1.11.0
 team==1.0
 udiskie==1.7.5
 ufw==0.35
-urllib3==1.23
+urllib3==1.24.2
 webencodings==0.5.1
